@@ -75,7 +75,7 @@ Database Tier (Amazon RDS MySQL - Private)
 
 ## 🏗️ Architecture Diagram
 
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e99b9df3-5bff-41ac-9c0f-3df0db8b57e9" />
 
 ---
 
